@@ -9,7 +9,7 @@ Desafíos y resultados:
 - Búsqueda Codiciosa: Logró avanzar desde diferentes posiciones iniciales, pero tendía a estancarse en óptimos locales al seguir vecinos de menor altura.
 - Recocido Simulado: Descendió más profundamente y sorteó mejor los obstáculos, aunque requería ajustes cuidadosos de los parámetros para evitar desviaciones.
 - A*: Proporcionó una estrategia heurística eficiente para encontrar caminos cortos hacia el objetivo, pero su rendimiento dependía de la precisión de la heurística.
--´Costo Uniforme: Ofreció resultados precisos al priorizar el menor costo acumulado, aunque a veces requería un mayor tiempo de cálculo.
+- Costo Uniforme: Ofreció resultados precisos al priorizar el menor costo acumulado, aunque a veces requería un mayor tiempo de cálculo.
 - BFS: Cubrió eficientemente el espacio de búsqueda y encontró soluciones óptimas en ciertos casos, pero era menos eficiente para explorar áreas extensas y complejas.
 - Profundidad Limitada: Permitió explorar zonas específicas del espacio de búsqueda, pero se limitaba a una profundidad predefinida.
 
