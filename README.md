@@ -1,7 +1,6 @@
-# Simulacion-Descenso-al-Fondo-de-un-Crater-en-Marte
-Utilización de algoritmos recocido simulado y avaricioso para la optimización de ruta de una simulación del descenso de un robot en marte.
-
-Proyecto de Búsqueda Local en Terreno Irregular
+## Simulacion-Descenso-al-Fondo-de-un-Crater-en-Marte
+#Proyecto de Búsqueda Local en Terreno Irregular
+#Utilización de algoritmos recocido simulado y avaricioso para la optimización de ruta de una simulación del descenso de un robot en marte.
 
 Implementé y evalué dos algoritmos de búsqueda local, búsqueda codiciosa y recocido simulado, para explorar y descender en un terreno irregular con el objetivo de alcanzar el fondo de un cráter.
 
